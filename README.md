@@ -33,3 +33,7 @@ Table of Contents
   [/Intro/Comment]
   - Comment Types
   - Best Practice
+  
+3. Falsy Values
+  [/Intro/Falsy]
+  - True/False values
