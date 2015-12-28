@@ -38,9 +38,9 @@ Table of Contents
   [/Intro/Falsy]
   - True/False values
 
-  4. Object Literals
-    [/Objects/Literals]
-    - Notation to create object
-    - Retrieval
-    - Update
-    - Reference
+4. Object Literals
+ [/Objects/Literals]
+ - Notation to create object
+ - Retrieval
+ - Update
+ - Reference
