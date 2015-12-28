@@ -33,7 +33,14 @@ Table of Contents
   [/Intro/Comment]
   - Comment Types
   - Best Practice
-  
+
 3. Falsy Values
   [/Intro/Falsy]
   - True/False values
+
+  4. Object Literals
+    [/Objects/Literals]
+    - Notation to create object
+    - Retrieval
+    - Update
+    - Reference
