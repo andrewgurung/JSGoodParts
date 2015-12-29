@@ -57,3 +57,7 @@ Table of Contents
    - hasOwnProperty method
    - Enumeration (incl. Sorted Enumeration)
    - Delete
+
+7. Global Abatement
+  [/Objects/GlobalAbatement]
+  - Single global variable
