@@ -61,3 +61,9 @@ Table of Contents
 7. Global Abatement
   [/Objects/GlobalAbatement]
   - Single global variable
+  
+8. Functions
+  [/Functions/Literal]
+  - Function object
+  - Function literal (notation to create function)
+  - Function prototype
