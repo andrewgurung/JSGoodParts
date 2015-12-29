@@ -39,8 +39,14 @@ Table of Contents
   - True/False values
 
 4. Object Literals
- [/Objects/Literals]
- - Notation to create object
- - Retrieval
- - Update
- - Reference
+  [/Objects/Literals]
+   - Notation to create object
+   - Retrieval
+   - Update
+   - Reference
+
+ 5. Prototype
+   [/Objects/Prototype]
+   - Object.create() helper method
+   - Delegation (Prototype chain)
+   - Dynamic Relationship
