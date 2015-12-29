@@ -45,13 +45,13 @@ Table of Contents
    - Update
    - Reference
 
- 5. Prototype
+5. Prototype
    [/Objects/Prototype]
    - Object.create() helper method
    - Delegation (Prototype chain)
    - Dynamic Relationship
 
- 6. Reflection
+6. Reflection
    [/Objects/Reflection]
    - typeof operator
    - hasOwnProperty method
