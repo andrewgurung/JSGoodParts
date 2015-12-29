@@ -50,3 +50,10 @@ Table of Contents
    - Object.create() helper method
    - Delegation (Prototype chain)
    - Dynamic Relationship
+
+ 6. Reflection
+   [/Objects/Reflection]
+   - typeof operator
+   - hasOwnProperty method
+   - Enumeration (incl. Sorted Enumeration)
+   - Delete
