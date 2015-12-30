@@ -67,3 +67,11 @@ Table of Contents
   - Function object
   - Function literal (notation to create function)
   - Function prototype
+  
+9. Function Invocation
+  [/Functions/Invocation]
+  - Method Invocation Pattern
+  - Function Invocation Pattern
+      * this - that object
+  - Constructor Invocation Pattern
+  - Apply Invocation Pattern
