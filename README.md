@@ -81,3 +81,8 @@ Table of Contents
   - throw
   - try/catch
 
+11. Augmenting functions
+  [/Function/Augment]
+  - Function.prototype.method helper
+  - Number.isEven augmented method
+
