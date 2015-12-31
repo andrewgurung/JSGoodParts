@@ -85,4 +85,10 @@ Table of Contents
   [/Function/Augment]
   - Function.prototype.method helper
   - Number.isEven augmented method
+  
+12. Closure
+  [/Function/Closure]
+  - Scope
+  - Closure
+  - fade method
 
