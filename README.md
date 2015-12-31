@@ -75,3 +75,9 @@ Table of Contents
       * this - that object
   - Constructor Invocation Pattern
   - Apply Invocation Pattern
+  
+10. Exception
+  [/Functions/Exception]
+  - throw
+  - try/catch
+
