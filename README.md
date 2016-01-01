@@ -61,13 +61,13 @@ Table of Contents
 7. Global Abatement
   [/Objects/GlobalAbatement]
   - Single global variable
-  
+
 8. Functions
   [/Functions/Literal]
   - Function object
   - Function literal (notation to create function)
   - Function prototype
-  
+
 9. Function Invocation
   [/Functions/Invocation]
   - Method Invocation Pattern
@@ -75,7 +75,7 @@ Table of Contents
       * this - that object
   - Constructor Invocation Pattern
   - Apply Invocation Pattern
-  
+
 10. Exception
   [/Functions/Exception]
   - throw
@@ -85,10 +85,13 @@ Table of Contents
   [/Function/Augment]
   - Function.prototype.method helper
   - Number.isEven augmented method
-  
+
 12. Closure
   [/Function/Closure]
   - Scope
   - Closure
   - fade method
 
+13. Module
+  [/Function/Module]
+  - Structure
