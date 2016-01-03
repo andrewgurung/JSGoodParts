@@ -99,3 +99,9 @@ Table of Contents
 14. Curry
   [/Function/Curry]
   - Use Function.prototype.method to create curry method
+
+15. Memoization
+  [/Function/Memoization]
+  - fibonacci method
+  - memoized fibonacci method
+  - memoizer helper function
