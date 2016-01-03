@@ -95,3 +95,7 @@ Table of Contents
 13. Module
   [/Function/Module]
   - Structure
+
+14. Curry
+  [/Function/Curry]
+  - Use Function.prototype.method to create curry method
