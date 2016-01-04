@@ -109,4 +109,4 @@ Table of Contents
 16. Pseudoclassical Inheritance
   [/Inheritance/Pseudoclassical]
   - Pseudoclassical
-  - helper function 'inherits'
+  - helper function 'inherits' 
