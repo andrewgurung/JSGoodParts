@@ -105,3 +105,8 @@ Table of Contents
   - fibonacci method
   - memoized fibonacci method
   - memoizer helper function
+  
+16. Pseudoclassical Inheritance
+  [/Inheritance/Pseudoclassical]
+  - Pseudoclassical
+  - helper function 'inherits'
