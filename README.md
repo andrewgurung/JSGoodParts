@@ -110,3 +110,7 @@ Table of Contents
   [/Inheritance/Pseudoclassical]
   - Pseudoclassical
   - helper function 'inherits' 
+
+17. Prototypal Inhertiance
+  [/Inheritance/Prototypal]
+  - Object.create() method that implements true prototypal inheritance
