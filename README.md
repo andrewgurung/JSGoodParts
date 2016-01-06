@@ -114,3 +114,7 @@ Table of Contents
 17. Prototypal Inhertiance
   [/Inheritance/Prototypal]
   - Object.create() method that implements true prototypal inheritance
+  
+18. Functional Inheritance
+  [/Inheritance/Functional]
+  - Steps to use functional inheritance
