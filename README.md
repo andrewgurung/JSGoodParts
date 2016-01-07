@@ -118,3 +118,9 @@ Table of Contents
 18. Functional Inheritance
   [/Inheritance/Functional]
   - Steps to use functional inheritance
+
+19. Arrays
+  [/Arrays]
+  - Array Literal
+  - Array properties and methods (including helper method)
+  - Multi dimensional Array
