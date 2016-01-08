@@ -124,3 +124,6 @@ Table of Contents
   - Array Literal
   - Array properties and methods (including helper method)
   - Multi dimensional Array
+  
+20. Regular Expressions
+  [/Regex]
