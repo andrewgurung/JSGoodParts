@@ -1,5 +1,6 @@
 Falsy Values
 ------------
+
 1. false
 2. null
 3. undefined
@@ -9,6 +10,7 @@ Falsy Values
 
 Truthy Values
 -------------
+
 1. All other values are truthy, including
 2. true
 3. The string 'false'
