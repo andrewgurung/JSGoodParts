@@ -1,4 +1,5 @@
 Javascript provides 2 forms of comments
+
 1. Block comment: /\* \*/
 2. Line-ending comment: //
 
